@@ -1,7 +1,38 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+	{
+		"key": "wd",
+		"value": "1920x951",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-02-17T15:18:26.866Z",
+		"lastAccessed": "2026-02-17T15:18:26.866Z"
+	},
+	{
+		"key": "i_user",
+		"value": "100091410817776",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-02-17T15:18:26.866Z",
+		"lastAccessed": "2026-02-17T15:18:26.866Z"
+	},
+	{
+		"key": "fr",
+		"value": "26l9Wgd4uiZeNDbsr.AWcjJiB5k4WXorF9A2i2qjwRuscK5vy95xkp6T9MK4S5VOIdEDM.BplIJ8..AAA.0.0.BplIaq.AWcHKZYkUsn2zdtczaFw0mXOqhs",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-02-17T15:18:26.866Z",
+		"lastAccessed": "2026-02-17T15:18:26.866Z"
+	},
+	{
+		"key": "presence",
+		"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1771341499296%2C%22v%22%3A1%7D",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-02-17T15:18:26.866Z",
+		"lastAccessed": "2026-02-17T15:18:26.866Z"
+	}
+]
